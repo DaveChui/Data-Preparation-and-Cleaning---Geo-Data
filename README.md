@@ -2,6 +2,9 @@
 
 Data cleaning is the process of detecting and correcting errors and inconsistencies in data. It is an important step in the data preparation process, as faulty or inaccurate data can lead to incorrect results or invalid conclusions.
 
+Data Cleaning in Python
+Data cleaning is the process of detecting and correcting errors and inconsistencies in data. It is an important step in the data preparation process, as faulty or inaccurate data can lead to incorrect results or invalid conclusions.
+
 Required Libraries
 pandas
 numpy
